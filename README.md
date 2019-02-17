@@ -4,4 +4,4 @@ In the project catalog you can see a fictitious clothing store with a wide selec
 
 ## Deployment
 
-This landing has moved here: https://shop-9103f.firebaseapp.com/
+This landing has moved here: https://magaze-f3a06.firebaseapp.com/
